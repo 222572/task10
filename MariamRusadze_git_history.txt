@@ -1,0 +1,11 @@
+commit 5e4009d53ed0e693346101260a574e63f642e750
+Author: MariamRusadze <222572@edu.fa.ru>
+Date:   Sun Dec 29 18:00:06 2024 +0400
+
+    Realization of the chyper functions
+
+commit 480debaf23ab8173a4221002fe04b3923e5f6871
+Author: MariamRusadze <222572@edu.fa.ru>
+Date:   Sun Dec 29 17:43:03 2024 +0400
+
+    Initial commit: creating project files
